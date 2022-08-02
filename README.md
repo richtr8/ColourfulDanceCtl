@@ -4,7 +4,7 @@ arduino Joystick library code for any sort of controller using analogue switches
 intended for dance game usage at 1000hz, using original arcade sensors & per-panel colour profile support via FastLED.
 
 credit to [dominickp](https://github.com/dominickp) for his original FastLED implementation amended to [teejusb's fsr repo.](https://github.com/teejusb/fsr)  
-credit to [nato](https://github.com/Natologic) for both [restructuring the PANEL-LED array to support 3-wire ws2812b LEDs & writing the "setColors" functions.](https://github.com/Natologic/metalTravelPad)  
+credit to [nato](https://github.com/Natologic) for both [restructuring the PANEL-LED array to support 3-wire WS2812B LEDs & writing the "setColors" functions.](https://github.com/Natologic/metalTravelPad)  
 credit to [StarlightLumi](https://github.com/StarlightLumi) for [the original DanceCtl+lights implementation.](https://github.com/StarlightLumi/DanceCtl)
 
 
