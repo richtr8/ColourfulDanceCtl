@@ -1,7 +1,7 @@
 ColourfulDanceCtl
 ----
 arduino Joystick library code for any sort of controller using analogue switches & three-wire WS2812B LEDs.  
-intended for dance game usage at 1000hz, using original arcade sensors & per-panel colour profile support via FastLED.
+intended for dance game usage at 1000hz, using original, stock arcade tape switches (aka "sensors") & per-panel colour profile support via FastLED.
 
 credit to [dominickp](https://github.com/dominickp) for his [original FastLED implementation](https://github.com/teejusb/fsr/compare/master...dominickp:dom-fastled-lights) amended to [teejusb's fsr repo.](https://github.com/teejusb/fsr)  
 credit to [nato](https://github.com/Natologic) for both [restructuring the PANEL-LED array to support 3-wire WS2812B LEDs & writing the "setColors" functions.](https://github.com/Natologic/metalTravelPad)  
